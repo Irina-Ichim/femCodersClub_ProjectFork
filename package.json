@@ -1,0 +1,15 @@
+{
+    "name": "femcodersclub_project",
+    "version": "1.0.0",
+    "description": "<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Qxb0JCVj/image-123650291.jpg'  alt='image-123650291'/></a>",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "npm run dev:server & npm run dev:client",
+        "dev:server": "cd server && npm run dev",
+        "dev:client": "cd client && npm run dev"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
